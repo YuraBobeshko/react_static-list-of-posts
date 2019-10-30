@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,UACE,YAAa,CACb,4BAA6B,CAC7B,kBACF","file":"main.cae03474.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.ilHeader {\n  display: flex;\n  justify-content: space-evenly;\n  align-items: center;\n}\n"]}
